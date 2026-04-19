@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 groq_api.env
+.env
+history.json
