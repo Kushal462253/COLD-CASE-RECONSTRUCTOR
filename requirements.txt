@@ -1,0 +1,8 @@
+streamlit
+groq
+langchain
+langchain-groq
+wikipedia
+sentence-transformers
+fpdf2
+python-dotenv
